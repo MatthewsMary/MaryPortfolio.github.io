@@ -60,3 +60,7 @@ a {
     align-items: center;
     height: 100vh;
 }
+
+.home-link {
+    color: #111323;
+}
